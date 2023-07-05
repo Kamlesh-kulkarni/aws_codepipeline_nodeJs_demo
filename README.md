@@ -1,6 +1,9 @@
 # aws_codebuild_codedeploy_nodeJs_demo
 This repository contains sample codes to work with AWS 
 
+Main file - buildspec_build_automation.yml 
+Reference video - https://www.youtube.com/watch?v=fPkO3644kDU&ab_channel=SandipDas
+
 This Project build_script directory contains build related script, check buildspec.yml file I have integrated the same. 
 
 Deployment related scripts are in deployment_scripts directory, check appspec.yml file. 
